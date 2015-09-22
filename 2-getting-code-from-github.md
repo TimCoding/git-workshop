@@ -1,6 +1,6 @@
 # Being Awesome at GitHub
 
-Find this document at https://github.com/utcsmad/github-workshop-f15
+Find this document at https://github.com/utcsmad/git-workshop
 
 ---
 
